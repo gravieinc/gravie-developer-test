@@ -5,7 +5,7 @@
 
 ## Synopsis
 
-For this challenge you will implement the Giant Bomb API to create an application that will allow a user to select games and "rent" them. Clicking a game will pop up a modal with a more detailed view of the game (implementing more aspects of the API). The application should consist of at least two unique pages. Your view should display the game thumbnail and title, and the rest is up to you. You can use any language and or framework you'd like.
+For this challenge you will implement the Giant Bomb API to create an application that will allow a user to search games and "rent" them. The application should consist of at least two unique pages (`search` and `checkout`). Your view should display the game thumbnail and title, and the rest is up to you. You can use any language and or framework you'd like.
 
 ![Giant Bomb](https://upload.wikimedia.org/wikipedia/en/4/4b/Giant_Bomb_logo.png)
 
