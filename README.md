@@ -1,4 +1,7 @@
-# Gravie Software Engineer Challenge    
+# Gravie Software Engineer Challenge
+
+## Instructions
+After completing the challenge below, please send us an email with the location of your repository. If your repository is private, be sure to add us as collaborators so we can view your code.
 
 ### Time Box
 3-4 Hours
