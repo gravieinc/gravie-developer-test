@@ -20,7 +20,7 @@ to you. You can use any language and or framework you'd like.
 
 You can get started by signing up for an API key [here](https://www.giantbomb.com/api/).
 
-Note: You'll most likely need to use the social media technique for logging in.
+Note: You'll most likely need to use the social media technique for logging in (2022-05-16: confirmed this works with google.)  Once you're logged in, go back to the [API page](https://www.giantbomb.com/api/) to access your key.
 
 ### Resources
 
