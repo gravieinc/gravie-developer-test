@@ -11,7 +11,7 @@ your repository is private, be sure to add us as collaborators so we can view yo
 
 ## Synopsis
 
-For this challenge you will implement the Giant Bomb API to create an application that will allow a
+For this challenge you will consume the Giant Bomb API to create an application that will allow a
 user to search games and "rent" them. The application should consist of at least two unique pages
 (`search` and `checkout`). Your view should display the game thumbnail and title, and the rest is up
 to you. You can use any language and or framework you'd like. 
